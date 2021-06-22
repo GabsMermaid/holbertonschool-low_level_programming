@@ -1,10 +1,9 @@
 #include "holberton.h"
 
-/*
- * main: Print HOLBERTON followed by a new line
+/**
+ *main - Print HOLBERTON followed by a new line
  *
- * Return: 0 - success
- *
+ *Return: 0, success
  */
 
 int main(void)
