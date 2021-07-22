@@ -1,6 +1,6 @@
 #include "variadic_functions.h"
 
-/*
+/**
  *print_numbers - print num'bers followed by a new line
  *@separator:string to print between numbers
  *@n: number of nums to print
