@@ -2,10 +2,13 @@
 #define LISTS_H
 
 /**Libraries**/
-
+#include<stddef.h>
+#include<stdarg.h>
+#include<string.h>
+#include<stdio.h>
+#include<stdlib.h>
 
 /**Struct**/
-
 /**
  * struct list_s - singly linked list
  * @str: string - (malloc'ed string)
